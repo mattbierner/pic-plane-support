@@ -5,7 +5,9 @@
 This repo provides documentation on using Pic Plane. If you run into any issues or have a feature requests, you can also [file an issue][issues] here.
 
 <div align="center">
-    <img src="https://github.com/mattbierner/pic-plane-support/raw/master/images/overview.gif" alt="Pic Plane in action">
+    <img
+        src="https://github.com/mattbierner/pic-plane-support/raw/master/images/overview.gif"
+        alt="Pic Plane in action">
 </div>
 
 ## Using Pic Plane
@@ -18,7 +20,11 @@ When the app starts, you should already be in plane placement mode. Position the
 
 Use can the following controls to position the plane (left-to-right):
 
-![Placement controls](images/placement-controls.png)
+<div align="center">
+    <img
+        src="https://github.com/mattbierner/pic-plane-support/raw/master/images/placement-controls.png"
+        alt="Placement controls">
+</div>
 
 - Tracking mode. When enabled, the plane will follow your current view. Tap again to disable.
 
@@ -36,7 +42,12 @@ After placing the photo plane, now it's time to capture images using it. When yo
 
 Using your placed plane, frame a good looking shot and then tap the camera button in the bottom bar to capture an image.
 
-![Camera button](images/camera-button.png)
+<div align="center">
+    <img
+        src="https://github.com/mattbierner/pic-plane-support/raw/master/images/camera-button.png"
+        alt="The camera button">
+</div>
+
 
 If you stand still, the plane should now perfectly blend into the scene. Step to the side to see that the image has in fact been saved to the plane.
 
@@ -44,7 +55,11 @@ If you stand still, the plane should now perfectly blend into the scene. Step to
 
 Try experimenting with capturing images of the plane from different angles. You can also explore perspective. Notice how when you capture the plane from a heavy angle for example, the plane image looks heavily distorted when viewed head-on.
 
-![Images captured at an angle will look distorted when viewed head-on](images/distortion.png)
+<div align="center">
+    <img
+        src="https://github.com/mattbierner/pic-plane-support/raw/master/images/distortion.png"
+        alt="Images captured at an angle will look distorted when viewed head-on">
+</div>
 
 > 🎵 **Note**: Remember that the captured image depends on your phone's view of the plane. If the plane is very small on your display, the captured image will be quite low resolution. 
 
@@ -62,24 +77,35 @@ The currently active plane is always highlighted in purple. Transforms and camer
 
 After putting together a fun collage, tap the circular photo button to capture a screenshot. This screenshot hides all UI elements so that you only see the AR view.
 
-![The photo button](images/photo-button.png)
+<div align="center">
+    <img
+        src="https://github.com/mattbierner/pic-plane-support/raw/master/images/photo-button.png"
+        alt="The photo button">
+</div>
 
 Tap and hold the camera button to start recording a video. This starts a countdown, with recording starting after three seconds. Tap the camera button again to stop recording. 
 
 After taking a video or screenshot, you can download it to your photos or share it using the standard iOS share sheet.
 
-![Sharing a screenshot](images/sharing.png)
+<div align="center">
+    <img
+        src="https://github.com/mattbierner/pic-plane-support/raw/master/images/sharing.png"
+        alt="Sharing a captured image">
+</div>
 
 ### Export Plane Image
 
 You can also export the image from a captured plane. To do this, go to the advanced menu in the far right of the control bar and select `Export Plane Image`.
 
-![Exporting a plane image](images/export-plane-image.png)
+<div align="center">
+    <img
+        src="https://github.com/mattbierner/pic-plane-support/raw/master/images/export-plane-image.png"
+        alt="Exporting a plane image">
+</div>
 
 Again keep in mind that resolution of the image originally captured to the plane may be limited. This is especially true for highly distorted images.
 
 > 🎵 **Note**: The free version of the app is limited to fairly low resolution images. The pro version of the app supports exporting plane images up to 4048x4048px
-
 
 ## Pro Upgrade
 
