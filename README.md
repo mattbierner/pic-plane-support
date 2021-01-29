@@ -4,23 +4,25 @@
 
 This repo provides documentation on using Pic Plane. If you run into any issues or have a feature requests, you can also [file an issue][issues] here.
 
-![Pic Plane in action](images/overview.gif)
+<div align="center">
+    <img src="https://github.com/mattbierner/pic-plane-support/raw/master/images/overview.gif" alt="Pic Plane in action">
+</div>
 
 ## Using Pic Plane
 
 ### Placing a photo plane
 
-Pic Plane works a little differently than your typical camera app. To get started, you first to place a photo plane in the world using augmented reality. This photo plane will be used to both take photos and display the captured images.
+Pic Plane works a little differently than your typical camera app. To get started, you first place a photo plane in the world using augmented reality. This photo plane will be used to both take photos and display the captured images.
 
-When the app starts, you should already be in plane placement mode. Position the purple plane in your environment using the provided controls. Once you position the plane where you want to, hit the checkmark. You can always return to reposition the plane again later.
+When the app starts, you should already be in plane placement mode. Position the purple plane in your environment using the provided controls. Once you position the plane where you want it, hit the checkmark. You can always return to reposition the plane again later.
 
-Use the following controls to position the plane (left-to-right):
+Use can the following controls to position the plane (left-to-right):
 
 ![Placement controls](images/placement-controls.png)
 
 - Tracking mode. When enabled, the plane will follow your current view. Tap again to disable.
 
-- Translate. Tap and drag to move the plane from side to side and forward and back. Use two fingers to move the plane up and down.
+- Translate. Tap and drag to move the plane from side to side or forward and back in space. Use two fingers to move the plane up and down.
 
 - Rotate. Tap and drag to rotate the plane in space. Use two fingers to spin the plane. 
 
@@ -32,7 +34,7 @@ You can also pinch to scale the plane up and down.
 
 After placing the photo plane, now it's time to capture images using it. When you take a photo, Pic Plane will save the view through the current picture plane. 
 
-Using your placed plane, frame a good looking shot using it and then tap the camera button in the bottom bar to capture an image.
+Using your placed plane, frame a good looking shot and then tap the camera button in the bottom bar to capture an image.
 
 ![Camera button](images/camera-button.png)
 
@@ -40,7 +42,7 @@ If you stand still, the plane should now perfectly blend into the scene. Step to
 
 > 💡 **Suggestion**: After capturing an image, you can always return to edit mode to move the plane about. The captured image will stay on the plane until you reset the plane or take another photo.
 
-Try experimenting with capturing images of the plane from different angles. You can also explore perspective. Notice how if you capture the plane from a heavy angle for example, the plane image will look heavily distorted when viewed head-on.
+Try experimenting with capturing images of the plane from different angles. You can also explore perspective. Notice how when you capture the plane from a heavy angle for example, the plane image looks heavily distorted when viewed head-on.
 
 ![Images captured at an angle will look distorted when viewed head-on](images/distortion.png)
 
@@ -58,7 +60,7 @@ The currently active plane is always highlighted in purple. Transforms and camer
 
 ### Taking Screenshots
 
-After putting together fun collage, tap the circular photo button to capture a screenshot. This screenshot hides all UI elements so that you only see the current scene and your placed planes.
+After putting together a fun collage, tap the circular photo button to capture a screenshot. This screenshot hides all UI elements so that you only see the AR view.
 
 ![The photo button](images/photo-button.png)
 
@@ -81,7 +83,7 @@ Again keep in mind that resolution of the image originally captured to the plane
 
 ## Pro Upgrade
 
-I try to release free iOS apps that have a lot functionality and don't have ads or other BS. You can support this by upgrading to the Pro version of Pic Plane. The pro upgrade also unlocks some additional benefits: 
+I try to release free iOS apps that have a lot of functionality and don't have ads or other BS. You can support this by upgrading to the Pro version of Pic Plane. The pro upgrade also unlocks some benefits: 
 
 - Place an unlimited number of photo planes.
 
@@ -89,7 +91,7 @@ I try to release free iOS apps that have a lot functionality and don't have ads 
 
 ## Feedback
 
-Enjoy using Pic Plane? Be sure to tell your friends about it and share anything content you create using the app. If you are feeling especially generous, please also write an App Store review. This really helps other people find the app.
+Enjoy using Pic Plane? Be sure to tell your friends about it and share anything cool you create using the app. If you are feeling especially generous, please also write an App Store review. This really helps other people find the app.
 
 Run into a bug or want to request a new feature? Just [file an issue][issues]!
 
