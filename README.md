@@ -65,6 +65,25 @@ Try experimenting with capturing images of the plane from different angles. You 
 
 > 🎵 **Note**: Any areas of the plane that are not visible when you take a photo will be transparent.
 
+### Capturing videos to the photo plane
+
+You can also record videos to the photo plane. To get started, tap and hold the camera button in the bottom bar. This brings up the recording options.
+
+
+<div align="center">
+    <img
+        src="https://github.com/mattbierner/pic-plane-support/raw/master/images/record-options.png"
+        alt="Options for capturing an image/video to the plane">
+</div>
+
+Tap the video button to start recording. While recording, the border of the plane will appear red and the camera icon in the bottom bar will be purple. Tap the camera icon again to stop recording.
+
+> 🎵 **Note**: The free version of the app is limited to 3 second of video per plane. The pro version of the app lets you record up to sixty seconds of video per plane.
+
+The recorded video is played in a continuous loop on the photo plane.
+
+While recording, try experimenting with perspective by changing your angle to the plane and seeing how this effects the video.
+
 ### Working with multiple planes
 
 To place additional planes, just tap the plus button. This lets you place a new plane in the scene using transform mode.
@@ -98,7 +117,7 @@ After taking a video or screenshot, you can download it to your photos or share 
 You can also export the image from a captured plane. To do this, go to the advanced menu in the far right of the control bar and select `Export Plane Image`.
 
 <div align="center">
-    <img
+    <imgx
         src="https://github.com/mattbierner/pic-plane-support/raw/master/images/export-plane-image.png"
         alt="Exporting a plane image">
 </div>
@@ -112,6 +131,8 @@ Again keep in mind that resolution of the image originally captured to the plane
 I try to release free iOS apps that have a lot of functionality and don't have ads or other BS. You can support this by upgrading to the Pro version of Pic Plane. The pro upgrade also unlocks some benefits: 
 
 - Place an unlimited number of photo planes.
+
+- Record up to 60 seconds of video per plane.
 
 - Export plane images up to 4096x4096px in size (note that this becomes rather slow on older phones)
 
